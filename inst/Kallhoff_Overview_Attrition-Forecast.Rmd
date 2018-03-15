@@ -1,0 +1,28 @@
+---
+title: "Kallhoff_Overview_Attrition-Forecast"
+author: "Anthony Kallhoff"
+date: "March 15, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Accuracy
+Unkown. I don't have any functions that are working, or documentation to know where I'm going wrong. 
+
+
+## Compilation
+
+I did get the package to load, but only two functions appear to be imported. One is from class, and the other one attempts to launch the app but fails for me. 
+I submitted the error I recieved as an issue. 
+
+##Ease of Use
+
+Documentation is scarce, and I don't have a picture of how the analytic should be working. Pretty much a non-starter for me, so its hard to say how the package should be operating. 
+
+##Overall
+Unsatisfactory - (35pts)
+I had little success with the package and trying to get it to work or even understanding what was it was attempting to do. 
+
